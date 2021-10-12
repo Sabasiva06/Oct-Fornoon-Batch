@@ -7,9 +7,11 @@ public class CourseDetails {
 
 	public static void main(String[] args) {
 
-		int i=10_000;
+		int i = 10_000;
 		System.out.println(i);
-		
+		System.out.println("hii");
+		System.out.println("Java");
+		System.out.println("Selenium");
 	}
 
 }

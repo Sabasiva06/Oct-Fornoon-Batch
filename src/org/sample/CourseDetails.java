@@ -12,6 +12,12 @@ public class CourseDetails {
 		System.out.println("hii");
 		System.out.println("Java");
 		System.out.println("Selenium");
+		System.out.println("Selenium");
+		System.out.println("Api Testing");
+		System.out.println("Appium");
+		System.out.println("Rest Assured");
+		System.out.println("Python");
+
 	}
 
 }
